@@ -15,6 +15,9 @@
 - Disabled the `Generate Map` button in the MapBuilder window if `MapBuilderSettings` is not set.
 - Updated the build configuration asset
 - The four middle tiles of the world are no longer forced to be of certain tile type.
+- World tile prefabs improved.
+	- Now make use of nested prefabs.
+	- Completely new set of default tiles used to populate the world
 
 ### Fixed
 
