@@ -1,8 +1,6 @@
-using Improbable;
 using Improbable.Gdk.Core;
 using Improbable.Gdk.PlayerLifecycle;
 using Improbable.Gdk.Subscriptions;
-using Improbable.PlayerLifecycle;
 using Improbable.Worker.CInterop;
 using UnityEngine;
 

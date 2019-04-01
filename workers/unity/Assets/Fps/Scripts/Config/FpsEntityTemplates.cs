@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using Improbable;
 using Improbable.Gdk.Core;
 using Improbable.Gdk.Guns;
@@ -6,8 +5,6 @@ using Improbable.Gdk.Health;
 using Improbable.Gdk.Movement;
 using Improbable.Gdk.PlayerLifecycle;
 using Improbable.Gdk.StandardTypes;
-using Improbable.PlayerLifecycle;
-using UnityEngine;
 
 namespace Fps
 {
